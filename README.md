@@ -43,10 +43,10 @@ python test.py --mode all --resume SAS_sysu.t --gpu 0 --dataset sysu
 ## Citation
 Please kindly cite this paper in your publications if it helps your research:
 ```bash
-@article{tan2023spectral,
-  title={Spectral Aware Softmax for Visible-Infrared Person Re-Identification},
-  author={Tan, Lei and Dai, Pingyang and Ye, Qixiang and Xu, Mingliang and Wu, Yongjian and Ji, Rongrong},
-  journal={arXiv preprint arXiv:2302.01512},
+@article{tan2023exploring,
+  title={Exploring invariant representation for visible-infrared person re-identification},
+  author={Tan, Lei and Zhang, Yukang and Shen, Shengmei and Wang, Yan and Dai, Pingyang and Lin, Xianming and Wu, Yongjian and Ji, Rongrong},
+  journal={arXiv preprint arXiv:2302.00884},
   year={2023}
 }
 ```
