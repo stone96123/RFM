@@ -1,8 +1,8 @@
 ![Python >=3.6](https://img.shields.io/badge/Python->=3.6-yellow.svg)
 ![PyTorch >=1.10](https://img.shields.io/badge/PyTorch->=1.10-blue.svg)
 
-# Spectral Aware Softmax for Visible-Infrared Person Re-Identification
-The official repository for Spectral Aware Softmax for Visible-Infrared Person Re-Identification [[pdf]](https://arxiv.org/pdf/2302.01512.pdf)
+# Exploring Invariant Representation for Visible-Infrared Person Re-identification
+The official repository for Exploring Invariant Representation for Visible-Infrared Person Re-identification [[pdf]](https://arxiv.org/pdf/2302.00884.pdf)
 
 ### Prepare Datasets
 
